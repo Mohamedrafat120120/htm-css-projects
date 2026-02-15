@@ -47,7 +47,7 @@ a{
     }
 .img{
     background-image: url("./images/main.jpg");
-    background-size: contain;
+    background-size:cover;
     background-repeat: no-repeat;
     height: 1500px;
     border-radius: 0px 0px  0px 200px;
