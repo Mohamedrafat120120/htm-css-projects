@@ -181,7 +181,8 @@ h5{
 }
 .final-p{
     font-size: 10px;
-    line-height: 20px;
+    line-height: 40px;
+    letter-spacing: 2px;
 }
 
 /* @media (max-width: 500px) {
